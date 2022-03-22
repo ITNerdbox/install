@@ -1,1 +1,1 @@
-# Debian 10 install scripts
+# Misc install and patch scripts
